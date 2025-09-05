@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.citytours.android",
+      "sha256_cert_fingerprints":
+        ["2B:D4:48:97:9A:4F:24:9F:FB:13:7A:8C:CA:7C:C8:A5:6D:2C:22:17:19:7D:1E:9B:DC:39:15:26:AB:7E:9D:41"]
+    }
+  }
+]

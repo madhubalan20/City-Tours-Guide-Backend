@@ -1,0 +1,350 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "type": "audio",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/ooty-busstand-intro.mp3",
+                "title": "ALternative road"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20454651495015,
+                    12.96514259093722
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "type": "audio",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/ooty-busstand-intro.mp3",
+                "title": "ALternative road"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20217366848249,
+                    12.965880968967255
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "type": "audio",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/ooty-busstand-intro.mp3",
+                "title": "ALternative road"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20181345796931,
+                    12.96433133171405
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "end",
+                "id": 8,
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/tour-ends.mp3",
+                "title": "end"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20182583444267,
+                    12.96332653936797
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "title": "Go Staright",
+                "type": "stops"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.2032295965247,
+                    12.962975426563645
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "title": "Go Staright",
+                "type": "audio",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/tigerhill-content.mp3"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.2031053696839,
+                    12.961328875723012
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "title": "Go Staright 1",
+                "type": "stops"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20303081927062,
+                    12.960880869568456
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "title": "Go Staright",
+                "type": "audio",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/tigerhill-content.mp3"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20647165372463,
+                    12.960152572609061
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "type": "audio",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/keepstright.mp3",
+                "title": "keep staight"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20691790837668,
+                    12.961974421274917
+                ],
+                "type": "Point"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "type": "audio",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/keepstright.mp3",
+                "title": "keep staight"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20679242463007,
+                    12.96357859084668
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "type": "audio",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/keepstright.mp3",
+                "title": "keep staight"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20708539163144,
+                    12.965237161616088
+                ],
+                "type": "Point"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "type": "start",
+                "audiourl": "https://citytours.s3.eu-north-1.amazonaws.com/Ooty-City-Tour/en/intro.mp3",
+                "title": "Starting point"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.20557868604851,
+                    12.965413847735519
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    [
+                        80.20707421881178,
+                        12.965187964724336
+                    ],
+                    [
+                        80.20649075651664,
+                        12.962073981285954
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    [
+                        80.20647086325766,
+                        12.962108761635747
+                    ],
+                    [
+                        80.20701429974508,
+                        12.96195526332751
+                    ],
+                    [
+                        80.20645544637506,
+                        12.960066797564068
+                    ],
+                    [
+                        80.20562037493306,
+                        12.960205130786306
+                    ],
+                    [
+                        80.20541556478207,
+                        12.96042778948204
+                    ],
+                    [
+                        80.20309232259058,
+                        12.96084244498796
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    [
+                        80.20306081856171,
+                        12.96083476882687
+                    ],
+                    [
+                        80.20322611440878,
+                        12.962945318812515
+                    ],
+                    [
+                        80.20178581104005,
+                        12.963282593577546
+                    ],
+                    [
+                        80.20179373392386,
+                        12.963681543511427
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    [
+                        80.20182925195911,
+                        12.96359671880694
+                    ],
+                    [
+                        80.2018170709847,
+                        12.965434464375036
+                    ],
+                    [
+                        80.20452334318367,
+                        12.965136232136146
+                    ],
+                    [
+                        80.20613989239979,
+                        12.96481405411997
+                    ],
+                    [
+                        80.20620112169024,
+                        12.965351097499962
+                    ],
+                    [
+                        80.20187826256671,
+                        12.965828300538035
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "coordinates": [
+                    [
+                        80.20180474047754,
+                        12.96591194396143
+                    ],
+                    [
+                        80.2026251705592,
+                        12.96746336882994
+                    ],
+                    [
+                        80.20376406527708,
+                        12.967260465118827
+                    ],
+                    [
+                        80.20369058930555,
+                        12.967081457348797
+                    ],
+                    [
+                        80.2049642179457,
+                        12.966926373650466
+                    ],
+                    [
+                        80.2047805126216,
+                        12.966055174184788
+                    ],
+                    [
+                        80.20719313629041,
+                        12.965613616669373
+                    ],
+                    [
+                        80.20700946076141,
+                        12.964873675817742
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ]
+}
